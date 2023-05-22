@@ -1,0 +1,5 @@
+Untuk menjalankan Project ini dibutuhkan android emulator / device hp android langsung, dikarenakan penggunaan firebase service dengan android.
+
+Auto Login akun bisa menggunakan akun dibawah:
+email: lisa123@gmail.com
+password: 123456
